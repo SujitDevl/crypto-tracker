@@ -1,10 +1,5 @@
-# crypto-tracker
+Crypto Currency is a website that helps you track Bitcoin prices and manage your transactions in real-time. It is built using React for a smooth experience, Axios to fetch live data, and Tailwind CSS for a clean and simple design. The website updates Bitcoin prices instantly, so you always have the latest information.
 
-Skilled in leveraging APIs from major exchanges to fetch real-time data and implementing secure data storage practices. 
-Proficient in frontend technologies such as React, ensuring seamless cross-platform functionality. Strong understanding of blockchain technology and cryptocurrency protocols. Committed to delivering user-friendly interfaces and enhancing app performance. 
-Seeking to contribute innovative solutions to the fintech industry.
-
-This description highlights your skills in developing crypto tracker apps, technical proficiency, and commitment to delivering high-quality user experiences and performance optimizations. Adjust the specifics based on your knowledge and expertise.
-
+With this platform, you can easily check Bitcoin prices and keep track of your transactions. The website is designed to be fast, easy to use, and responsive on all devices. Whether you are investing in Bitcoin or just want to stay updated, Crypto Currency makes it simple and convenient.
 
 
